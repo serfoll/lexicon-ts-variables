@@ -84,5 +84,5 @@
      - Kommentera bort den felaktiga raden så koden blir grön igen.
 
 ---
-**Bra jobbat!** 🎉  
+**Bra jobbat!**
 Du har nu använt variabler, typer, matematik och scope i TypeScript.
