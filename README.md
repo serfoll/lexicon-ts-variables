@@ -1,16 +1,5 @@
 # Workshop: Grunderna i TypeScript
 
-**Mål:** Att praktiskt använda variabler, datatyper, operatorer och scope.  
-**Instruktion:** Vi kommer att skriva all kod i **en och samma fil**. Använd kommentarer (`//`) för att hålla isär de olika delarna.
-
----
-
-## Förberedelser
-
-1. Skapa en ny mapp på din dator för dagens workshop.
-2. Öppna mappen i **VS Code**.
-3. Skapa en fil som heter `index.ts`.
-
 ---
 
 ## Steg 1: Variabler och Typsäkerhet
