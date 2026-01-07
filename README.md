@@ -52,7 +52,7 @@
 1. Gör en ny rad och skriv kommentaren: `// Steg 3: Uppdateringar`.
 2. Skapa en variabel `score` och sätt den till **10**. (Måste vara `let`).
 3. Du hittar en bonussvamp! Öka `score` med **5** genom att använda `+=`.
-4. Du trillar ner i ett hål! 🕳 Minska `score` med **2** genom att använda `-=`.
+4. Du trillar ner i ett hål! Minska `score` med **2** genom att använda `-=`.
 5. Logga variabeln `score` för att se vad slutpoängen blev.
 
 ---
