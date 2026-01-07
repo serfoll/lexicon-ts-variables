@@ -1,0 +1,23 @@
+{
+  "name": "lexicon-ts-variables",
+  "version": "1.0.0",
+  "description": "---",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serfoll/lexicon-ts-variables.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serfoll/lexicon-ts-variables/issues"
+  },
+  "homepage": "https://github.com/serfoll/lexicon-ts-variables#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
